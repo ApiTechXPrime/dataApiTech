@@ -1,15 +1,13 @@
 {
   "users":{
-    "techincal":[
+    "technical":[
       {
-      "fullName": "Prueba",
-      "email": "Prueba2",
-      "password": "Prueba3",
-      "birthday": "Prueba4",
-      },
+        "fullName": "Prueba",
+        "email": "Prueba2",
+        "password": "Prueba3",
+        "birthday": "Prueba4"
+      }
     ],
-    "clients":[
-    ],
+    "clients":[]
   }
 }
-
