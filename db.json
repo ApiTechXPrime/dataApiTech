@@ -3,6 +3,7 @@
     "technical":[],
     "clients":[
       {
+        "id": 1,
         "fullName": "Prueba",
         "email": "Prueba2",
         "password": "Prueba3",
