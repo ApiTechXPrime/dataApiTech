@@ -1,6 +1,15 @@
 {
-  "user":{
-    
+  "users":{
+    "techincal":[
+      {
+      "fullName": "Prueba",
+      "email": "Prueba2",
+      "password": "Prueba3",
+      "birthday": "Prueba4",
+      },
+    ]
+    "clients":[
+    ]
   }
 }
 
