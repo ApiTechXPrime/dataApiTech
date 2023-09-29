@@ -2,63 +2,69 @@
   "technicals":[
     {
       "id": 1,
+      "fullName": "Javier Dominguez",
       "email": "user1@gmai.com",
       "password": "1111",
-      "fullName": "Javier Dominguez",
+      "birthday": "28/05/1995"
       "experience": "1 - 2 years",
       "qualification": "⭐⭐⭐⭐✩",
-      "Location": "Av. Mariano LT20",
-      "About he": "Responsible, Gentle"
+      "location": "Av. Mariano LT20",
+      "aboutHim": "Responsible, Gentle"
     },
     {
       "id": 2,
+      "fullName": "Lucas Hernandez",
       "email": "user2@gmai.com",
       "password": "2222",
-      "fullName": "Lucas Hernandez",
+      "birthday": "28/05/1995"
       "experience": "1 - 6 months",
       "qualification": "⭐⭐✩✩✩",
-      "Location": "Calle Herrera LT21",
-      "About he": "Calm, Gentle"
+      "location": "Calle Herrera LT21",
+      "aboutHim": "Calm, Gentle"
     },
     {
       "id": 3,
+      "fullName": "Mauricio Salas",
       "email": "user3@gmai.com",
       "password": "3333",
-      "fullName": "Mauricio Salas",
+      "birthday": "28/05/1995"
       "experience": "3 years",
       "qualification": "⭐⭐⭐⭐✩",
-      "Location": "Av. La Marina LT26",
-      "About he": "competent, skilled, Expert"
+      "location": "Av. La Marina LT26",
+      "aboutHim": "competent, skilled, Expert"
     },
     {
       "id": 4,
+      "fullName": "Maria Lobdosky",
       "email": "user4@gmai.com",
       "password": "4444",
-      "fullName": "Maria Lobdosky",
+      "birthday": "28/05/1995"
       "experience": "2 years",
       "qualification": "⭐⭐⭐✩✩",
-      "Location": "Calle Intisuyo LT12",
-      "About he": "professional, diligent, efficient"
+      "location": "Calle Intisuyo LT12",
+      "aboutHim": "professional, diligent, efficient"
     },
     {
       "id": 5,
+      "fullName": "Esmeralda Aliaga",
       "email": "user5@gmai.com",
       "password": "5555",
-      "fullName": "Esmeralda Aliaga",
+      "birthday": "28/05/1995"
       "experience": "1 - 2years",
       "qualification": "⭐⭐⭐⭐⭐",
-      "Location": "Av. Primavera LT34",
-      "About he": "Responsible, Reliable, witty"
+      "location": "Av. Primavera LT34",
+      "aboutHim": "Responsible, Reliable, witty"
     },
     {
       "id": 6,
+      "fullName": "Jean Barrantes",
       "email": "user6@gmai.com",
       "password": "6666",
-      "fullName": "Jean Barrantes",
+      "birthday": "28/05/1995"
       "experience": "1 year",
       "qualification": "⭐⭐⭐✩✩",
-      "Location": "Av. Perú LT15",
-      "About he": "Methodical, organized, communicative"
+      "location": "Av. Perú LT15",
+      "aboutHim": "Methodical, organized, communicative"
     }
   ],
   "clients":[
