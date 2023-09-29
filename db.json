@@ -1,5 +1,13 @@
 {
-  "technicals":[],
+  "technicals":[
+    {
+      "id": 1,
+      "fullName": "X",
+      "email": "X2",
+      "password": "X3",
+      "birthday": "X4"
+    }
+  ],
   "clients":[
     {
       "id": 1,
