@@ -1,5 +1,18 @@
 {
-  "technicals":[],
+  "technicals":[
+      {"id": 1,
+      "fullName": "Prueba",
+      "experience": "Prueba2",
+      "location": "Prueba3",
+      "rate": "Prueba4"
+      },
+      {"id": 2,
+      "fullName": "Prueba",
+      "experience": "Prueba2",
+      "location": "Prueba3",
+      "rate": "Prueba4"
+      }  
+  ],
   "clients":[
     {
       "id": 1,
