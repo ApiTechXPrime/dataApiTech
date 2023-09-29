@@ -1,5 +1,5 @@
 {
-  "technicals":[
+  "technicals": [
     {
       "id": 1,
       "fullName": "Javier Dominguez",
@@ -9,7 +9,9 @@
       "experience": "1 - 2 years",
       "qualification": "⭐⭐⭐⭐✩",
       "location": "Av. Mariano LT20",
-      "aboutHim": "Responsible, Gentle"
+      "aboutHim": "Responsible, Gentle",
+      "image": "https://us.123rf.com/450wm/nickshot/nickshot1505/nickshot150500023/50709326-retrato-del-hombre-joven-del-estudiante-con-los-ojos-asustadizos-ojos-r%C3%A1pidos-aislados-en-fondo.jpg?ver=6",
+      "consultationPrice": "S/ 15.00"
     },
     {
       "id": 2,
@@ -20,7 +22,9 @@
       "experience": "1 - 6 months",
       "qualification": "⭐⭐✩✩✩",
       "location": "Calle Herrera LT21",
-      "aboutHim": "Calm, Gentle"
+      "aboutHim": "Calm, Gentle",
+      "image": "https://images.unsplash.com/photo-1618816566992-b5e08d3c02f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcmElMjBkZSUyMGNlcmNhfGVufDB8fDB8fHww&w=1000&q=80",
+      "consultationPrice": "S/ 12.00"
     },
     {
       "id": 3,
@@ -31,7 +35,9 @@
       "experience": "3 years",
       "qualification": "⭐⭐⭐⭐✩",
       "location": "Av. La Marina LT26",
-      "aboutHim": "competent, skilled, Expert"
+      "aboutHim": "competent, skilled, Expert",
+      "image": "https://media.istockphoto.com/id/502486230/es/foto/retrato-de-hombre.jpg?s=170667a&w=0&k=20&c=NWoy796NLrG_uY-qFQDmqkpJvQcv_54OUGVDSY05ppo=",
+      "consultationPrice": "S/ 20.00"
     },
     {
       "id": 4,
@@ -42,7 +48,9 @@
       "experience": "2 years",
       "qualification": "⭐⭐⭐✩✩",
       "location": "Calle Intisuyo LT12",
-      "aboutHim": "professional, diligent, efficient"
+      "aboutHim": "professional, diligent, efficient",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5q2UequnLIdY-WW6xfnn_ARI_QGw88dIeFGpO3EQ6E41LxiEQMPLJbDruZ-InC0VgolE&usqp=CAU",
+      "consultationPrice": "S/ 18.00"
     },
     {
       "id": 5,
@@ -53,7 +61,9 @@
       "experience": "1 - 2years",
       "qualification": "⭐⭐⭐⭐⭐",
       "location": "Av. Primavera LT34",
-      "aboutHim": "Responsible, Reliable, witty"
+      "aboutHim": "Responsible, Reliable, witty",
+      "image": "https://us.123rf.com/450wm/julenochek/julenochek1510/julenochek151000039/46805012-retrato-de-hombre-joven-primer-plano-de-la-cara-fondo-negro.jpg?ver=6",
+      "consultationPrice": "S/ 25.00"
     },
     {
       "id": 6,
@@ -64,10 +74,12 @@
       "experience": "1 year",
       "qualification": "⭐⭐⭐✩✩",
       "location": "Av. Perú LT15",
-      "aboutHim": "Methodical, organized, communicative"
+      "aboutHim": "Methodical, organized, communicative",
+      "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "consultationPrice": "S/ 14.00"
     }
   ],
-  "clients":[
+  "clients": [
     {
       "id": 1,
       "fullName": "Prueba",
@@ -84,4 +96,3 @@
     }
   ]
 }
-
