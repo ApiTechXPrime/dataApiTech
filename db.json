@@ -1,21 +1,20 @@
 {
-  "users":{
-    "technical":[],
-    "clients":[
-      {
-        "id": 1,
-        "fullName": "Prueba",
-        "email": "Prueba2",
-        "password": "Prueba3",
-        "birthday": "Prueba4"
-      },
-      {
-        "id": 2,
-        "fullName": "Another",
-        "email": "Another2",
-        "password": "Another3",
-        "birthday": "Another4"
-      }
-    ]
-  }
+  "technical":[],
+  "clients":[
+    {
+      "id": 1,
+      "fullName": "Prueba",
+      "email": "Prueba2",
+      "password": "Prueba3",
+      "birthday": "Prueba4"
+    },
+    {
+      "id": 2,
+      "fullName": "Another",
+      "email": "Another2",
+      "password": "Another3",
+      "birthday": "Another4"
+    }
+  ]
 }
+
