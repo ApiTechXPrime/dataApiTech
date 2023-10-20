@@ -3,33 +3,33 @@
     {
       "id": 1,
       "fullName": "Javier Dominguez",
-      "email": "user1@gmai.com",
+      "email": "user1@gmail.com",
       "password": "1111",
       "birthday": "28/05/1995",
       "experience": "1 - 2 years",
       "qualification": "⭐⭐⭐⭐✩",
       "location": "Av. Mariano LT20",
       "aboutHim": "Responsible, Gentle",
-      "image": "https://us.123rf.com/450wm/nickshot/nickshot1505/nickshot150500023/50709326-retrato-del-hombre-joven-del-estudiante-con-los-ojos-asustadizos-ojos-r%C3%A1pidos-aislados-en-fondo.jpg?ver=6",
+      "image": "https://us.123rf.com/450wm/nickshot/nickshot1505/nickshot150500023/50709326-retrato-del-hombre-joven-del-estudiante-con-los-ojos-asustadizos-ojos-rápidos-aislados-en-fondo.jpg?ver=6",
       "consultationPrice": "S/ 15.00"
     },
     {
       "id": 2,
       "fullName": "Lucas Hernandez",
-      "email": "user2@gmai.com",
+      "email": "user2@gmail.com",
       "password": "2222",
       "birthday": "28/05/1995",
       "experience": "1 - 6 months",
       "qualification": "⭐⭐✩✩✩",
       "location": "Calle Herrera LT21",
       "aboutHim": "Calm, Gentle",
-      "image": "https://images.unsplash.com/photo-1618816566992-b5e08d3c02f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcmElMjBkZSUyMGNlcmNhfGVufDB8fDB8fHww&w=1000&q=80",
+      "image": "https://images.unsplash.com/photo-1618816566992-b5e08d3c02f9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhcmElMjBkZSUyMjMlMjBjZXJjYXxlbnwwfHx8fHww&w=1000&q=80",
       "consultationPrice": "S/ 12.00"
     },
     {
       "id": 3,
       "fullName": "Mauricio Salas",
-      "email": "user3@gmai.com",
+      "email": "user3@gmail.com",
       "password": "3333",
       "birthday": "28/05/1995",
       "experience": "3 years",
@@ -42,7 +42,7 @@
     {
       "id": 4,
       "fullName": "Maria Lobdosky",
-      "email": "user4@gmai.com",
+      "email": "user4@gmail.com",
       "password": "4444",
       "birthday": "28/05/1995",
       "experience": "2 years",
@@ -55,10 +55,10 @@
     {
       "id": 5,
       "fullName": "Esmeralda Aliaga",
-      "email": "user5@gmai.com",
+      "email": "user5@gmail.com",
       "password": "5555",
       "birthday": "28/05/1995",
-      "experience": "1 - 2years",
+      "experience": "1 - 2 years",
       "qualification": "⭐⭐⭐⭐⭐",
       "location": "Av. Primavera LT34",
       "aboutHim": "Responsible, Reliable, witty",
@@ -68,7 +68,7 @@
     {
       "id": 6,
       "fullName": "Jean Barrantes",
-      "email": "user6@gmai.com",
+      "email": "user6@gmail.com",
       "password": "6666",
       "birthday": "28/05/1995",
       "experience": "1 year",
@@ -88,7 +88,7 @@
       "birthday": "Prueba4",
       "Cellphone": "Samsung A22",
       "Problem": "The battery overheats every moment of the day.",
-      "Time" : "10/09/2023 to 5:00 pm"
+      "Time": "10/09/2023 to 5:00 pm"
     },
     {
       "id": 2,
@@ -96,9 +96,9 @@
       "email": "Another2",
       "password": "Another3",
       "birthday": "Another4",
-      "Cellphone": " ",
-      "Problem": " ",
-      "Time" : " "
+      "Cellphone": "",
+      "Problem": "",
+      "Time": ""
     }
   ]
 }
