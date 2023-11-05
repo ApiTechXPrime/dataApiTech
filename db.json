@@ -165,5 +165,47 @@
       "investment":20
 
     }   
+  ],
+  "analitycs": [
+    {
+      "technicalId": 1,
+      "id": 1,
+      "week": 1,
+      "month": 10,
+      "year": 2023,
+      "incomes": 748,
+      "expenses": 373,
+      "profit": 375
+    },
+    {
+      "technicalId": 1,
+      "id": 2,
+      "week": 2,
+      "month": 10,
+      "year": 2023,
+      "incomes": 721,
+      "expenses": 268,
+      "profit": 453
+    },
+    {
+      "technicalId": 1,
+      "id": 3,
+      "week": 3,
+      "month": 10,
+      "year": 2023,
+      "incomes": 631,
+      "expenses": 395,
+      "profit": 236
+    },
+    {
+      "technicalId": 1,
+      "id": 4,
+      "week": 4,
+      "month": 10,
+      "year": 2023,
+      "incomes": 623,
+      "expenses": 288,
+      "profit": 335
+    },
   ]
 }
